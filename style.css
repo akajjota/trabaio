@@ -1,9 +1,63 @@
 body{
-    background: #0f0063;
+    background-color: rgb(29, 13, 59);
+}
+
+a{
+    color: rgb(0, 17, 255);
 }
 
 .nike{
     width: 90px;
+}
+
+.jt{
+    color: crimson;
+}
+
+.top{
+    color: crimson;
+}
+
+.um{
+    color: aquamarine;
+}
+
+.dois{
+    padding-left: 300px;
+    color: aquamarine;
+}
+
+.tres{
+    padding-left: 300px;
+    color: aquamarine;
+}
+
+.quatro{
+    padding-left: 300px;
+    color: aquamarine;
+}
+
+.cinco{
+    padding-left: 80px;
+    color: rgba(127, 255, 212, 0.432);
+}
+
+.seis{
+    padding-left: 80px;
+    color: rgba(127, 255, 212, 0.404);
+}
+
+.sete{
+    padding-left: 80px;
+    color: crimson;
+}
+
+.agua{
+    color: crimson;
+}
+
+.geladeira{
+    color: crimson;
 }
 
 a{
@@ -11,9 +65,19 @@ a{
 }
 
 .carro{
-    width: 900px;
+    width: 800px;
+    padding-left: 80px;
 }
 
 .naruto{
     width: 600px;
+    padding-left: 150px;
+}
+
+legend{
+    color: crimson;
+}
+
+.fum{
+    color: aquamarine;
 }
